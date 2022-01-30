@@ -1,0 +1,1 @@
+export { PhotoDetails } from "./PhotoDetails";
